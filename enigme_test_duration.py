@@ -8,10 +8,8 @@ start = timer()
 # votre code ici
 
 
-tableau = [1, 2 , 8 ,9 , 15]
-total = 0
 
-numpy.sum(tableau)
+
 # stop benchmark
 end = timer()
 duration = end - start
